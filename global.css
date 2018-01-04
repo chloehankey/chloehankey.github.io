@@ -1,0 +1,123 @@
+#wrappper {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+#header {
+	height: 200px;
+	width: 100%;
+	background-color: #bbd5ff;
+	color: white;
+	text-align: center;
+}
+
+#main_nav li {
+	display: inline-block;
+	width: 125px;
+	text-align: center;
+}
+
+#main_nav {
+	position: absolute;
+	margin: -50px 0 0 800px;
+}
+
+#main_nav a:hover {
+	font-weight: bold;
+}
+
+#main_nav a {
+	text-decoration: none;
+	color: white;
+	font-size: 24px;
+}
+
+h1 {
+	text-align: center;
+	font-family: Lucida Handwriting;
+	color: #5e5e5e;
+}
+
+h2 {
+	color: #5e5e5e;
+	font-size: 24px;
+}
+
+h3 {
+	color: #5e5e5e;
+	font-size: 18px;
+}
+
+h4 {
+	font-size: 18px;
+	color: #5e5e5e;
+}
+
+p {
+	font-size: 18px;
+	color: #5e5e5e;
+	line-height: 170%;
+}
+
+body {
+	font-family: Arial;
+	background-image: url("images/background.jpg");
+}
+
+#volleyball {
+	border: 2px solid;
+	border-color: #a4c0ff;
+	margin: 30px;
+	padding: 5px;
+}
+
+#cabinet {
+	border: 2px solid black;
+	border-color: #a4c0ff;
+	margin: 30px;
+	padding: 5px;
+}
+
+#Leo {
+	border: 2px solid black;
+	border-color: #a4c0ff;
+	margin: 30px;
+	padding: 5px;
+}
+
+#info {
+	margin-left: 250px;
+	margin-top: 50px;
+}
+
+#resume {
+	margin-left: 250px;
+	margin-top: 50px;
+}
+
+#resume p {
+	text-indent: 80px;
+}
+
+#resume h4 {
+	text-indent: 60px;
+}
+
+#image {
+	float: left;
+	margin-left: 50px;
+	margin-right: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
